@@ -4,4 +4,3 @@ Valorant Eshop created using HTML, CSS, Javascript and MySQL
 - Personalised Inventory and Cart system
 - Payment with checks for valid inputs 
 
-![Uploading Webapp Eshop ( Valorant Market ).png…]()
